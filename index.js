@@ -94,10 +94,10 @@ client.on(`message`, async (message) => {
     .setTimestamp()
     .setDescription(`
 
-[Support](https://discord.gg/5aENC4fNVj) - [Invite](https://discord.com/api/oauth2/authorize?client_id=803965149941071875&permissions=8&scope=bot)
+[Support](https://discord.gg/sZwsdszgcW) - [https://discord.com/api/oauth2/authorize?client_id=830390853260148776&permissions=1379401536&scope=bot)
 
 **Developers Bot** :
-CATATA#8788 - AVYAR#4293
+RaWeN#4398
 
 **Set Status** :
 Online
@@ -106,7 +106,7 @@ Online
 25/1/2021
 
 **Prefix Bot** :
-c?
+?
 
 `)
 
@@ -202,4 +202,4 @@ function delay(delayInms) {
  });
 }
 
-//Bot coded by Tomato#6966 
+//Bot coded by RaWeN#4398
