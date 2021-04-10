@@ -15,7 +15,7 @@ const cooldowns = new Collection();
 const escapeRegex = (str) => str.replace(/[.*+?^${}()|[\]\\]/g, `\\$&`);
 
 //this fires when the BOT STARTS DO NOT TOUCH
-client.on(`ready`, () => {	
+client.on(`ready`, (ODMwMzkwODUzMjYwMTQ4Nzc2.YHF_vw.fXTeNC3dmBY2CMWwRtoxqLooXjg) => {	
 //////////////
 
 ////////
@@ -125,9 +125,9 @@ c?
     .setDescription (`
 <:emoji_65:815251304070905857> Links
 
-[Support](https://discord.gg/5aENC4fNVj)
+[Support](https://discord.gg/sZwsdszgcW)
 -
-[Invite](https://discord.com/api/oauth2/authorize?client_id=803965149941071875&permissions=8&scope=bot)`)
+[Invite](https://discord.com/api/oauth2/authorize?client_id=830390853260148776&permissions=1379401536&scope=bot)`)
     .setFooter(message.author.username, message.author.displayAvatarURL)
     .setImage(``)
     .setTitle(`**Support Zooya**`) 
